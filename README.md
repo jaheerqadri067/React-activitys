@@ -1,2 +1,0 @@
-# TextLive
-Live Text

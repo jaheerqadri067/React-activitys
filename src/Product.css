@@ -1,0 +1,10 @@
+.Product{
+    border: 2px solid #e0c367;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+    margin: 15px 0 0 0;
+    font-size: 20px;
+    /* padding: 8px 0px; */
+    min-height: 100px;
+    min-width: 200px;
+}
